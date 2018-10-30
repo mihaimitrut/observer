@@ -1,0 +1,18 @@
+{
+    "name": "mihai/observer",
+    "description": "Observer pattern",
+    "authors": [
+        {
+            "name": "Mihai Mitrut",
+            "email": "mihai.mitrut@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
